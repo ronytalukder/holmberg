@@ -1,0 +1,768 @@
+@media(min-width:992px) and (max-width:1199.99px){
+    #banner_part .banner_text h1 {
+        font-size: 30px;
+        color: #222222;
+        line-height: 34px;
+        padding-right: 0;
+    }
+    #banner_part .banner_video::after {
+       display: none;
+    }
+    #banner_part .banner_video::before {
+        display: none;
+     }
+     #main_wrap {
+        margin-top: 75px;
+    }
+    #metting_part .metting_text .pera_text2 {
+        width: auto;
+    }
+    #metting_part .metting_text h3 {
+        font-size: 20px;
+    }
+    .tittle_two {
+        font-size: 17px;
+    }
+    #schedule_part h3 span {
+        font-size: 35px;
+        font-weight: 700;
+        left: -50px;
+        top: 7px;
+    }
+    #schedule_part .pera_text2 {
+        margin-top: 10px;
+        width: 207px;
+    }
+    #visitors_part .text p {
+        margin-top: 0px;
+        width: auto;
+    }
+    #visitors_part .visitor_img svg{
+        width: 100%;
+    }
+    #visitors_part::before {
+       display: none;
+    }
+    #customer_part .section_tittle h2 {
+        margin-top: 50px;
+    }
+    #customer_part .img_slider::before {
+        display: none;
+    }
+    #customer_part .img_slider::after {
+        display: none;
+    }
+    #team_part .section_tittle h2 {
+        width: auto;
+        font-size: 31px;
+    }
+    #footer_part p {
+        width: auto;
+    }
+    #footer_part .icon a i {
+        font-size: 18px;
+        color: #222222;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        margin-right:5px;
+    }
+    /* ---------------- */
+}
+@media(min-width:768px) and (max-width:991.99px) {
+    
+
+    /* nav start */
+    nav button i {
+        color: #ffff;
+        height: 30px;
+        width: 35px;
+        line-height: 30px !important;
+        border-radius: 5px;
+        text-align: center;
+        background: #FF3A44;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 .0;
+    }
+
+    nav ul {
+        background: #ffffff;
+        text-align: left;
+        padding: 20px 0 !important;
+    }
+
+    nav ul a:hover {
+        color: #FF3A44 !important;
+    }
+
+    
+
+    nav ul li a:before {
+        display: none;
+    }
+
+
+    #nav_part .banner_btn {
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+
+    .section_btn {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+
+    /* nav end*/
+
+    /* banner start*/
+    #banner_part .banner_text h1 {
+        font-size: 28px;
+        line-height: 35px;
+        padding-right: 0px;
+        text-align: left;
+    }
+
+    #banner_part .banner_text {
+        text-align: center;
+    }
+
+    #banner_part .banner_text p {
+        padding-right: 0;
+        margin-top: 5px;
+        text-align: left;
+    }
+    #banner_part .banner_video::after {
+        display: none;
+    }
+    #banner_part .banner_video::before {
+        display: none;
+    }
+    #metting_part .metting_text h3 {
+        width: auto;
+        font-size: 15px;
+        line-height: 22px;
+        font-weight: 700;
+    }
+    #metting_part .metting_text {
+        padding: 10px;
+    }
+
+    #banner_part {
+        padding-top: 30px;
+    }
+
+    .pera_text {
+        font-size: 16px;
+    }
+
+    #banner_part .banner_text a {
+        margin-bottom: 20px;
+    }
+
+    .section_tittle h2 {
+        font-size: 29px;
+        line-height: 40px;
+        margin: 0 auto;
+        width: auto;
+    }
+
+    #main_wrap {
+        padding-top: 139px;
+    }
+
+    .section_tittle p {
+        width: auto;
+        text-align: center;
+    }
+
+    #metting_part .metting_text .pera_text2 {
+        width: auto;
+    }
+
+    #metting_part .metting_text {
+        padding-bottom: 45px;
+    }
+
+    #schedule_part .details {
+        padding-left: 10px;
+    }
+
+    #schedule_part .pera_text2 {
+        margin-top: 10px;
+        width: auto;
+    }
+
+    #schedule_part h3 span {
+        font-size: 35px;
+        left: -52px;
+        top: 6px;
+    }
+    #metting_part .metting_details::after {
+      display: none;
+    }
+    #metting_part .metting_details::before{
+        display: none;
+      }
+    #visitors_part .text {
+        padding: 20px 20px 20px 36px;
+    }
+
+    #visitors_part .text p {
+        margin-top: 10px;
+        width: auto;
+    }
+
+    #visitors_part .text h3 span {
+        top: 2px;
+        left: -31px;
+    }
+
+    /* banner end*/
+    /* visitor start */
+    #visitors_part .visitor_img {
+        margin-bottom: -71px;
+        margin-top: 30px;
+    }
+
+    #visitors_part .visitor_img svg {
+        width: 100%;
+    }
+
+    #visitors_part::before {
+        display: none;
+    }
+
+    /* visitor end */
+    #customer_part .section_tittle h2 {
+        width: 450px;
+        margin-bottom: 20px;
+    }
+
+    #customer_part .img_slider::after {
+        left: -96px;
+        top: 25px;
+    }
+
+    #customer_part .img_slider::before {
+        display: none;
+    }
+
+    #customer_part .text_slider .item i {
+        font-size: 50px;
+        color: #FFBD2F;
+    }
+
+    #customer_part .text_slider .item p {
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 32px;
+        color: #C6C6C6;
+        margin: 10px 0;
+        width: auto;
+        padding-right: 33px;
+    }
+
+    #team_part {
+        margin-top: 50px;
+    }
+
+    #team_part .main_item {
+        padding: 10px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+
+    #team_part .section_tittle h2 {
+        width: auto;
+    }
+
+    #team_part .main_item p {
+        width: auto;
+        margin-top: 10px;
+    }
+
+    #footer_part .second {
+        margin-top: 10px;
+    }
+
+    #footer_part .icon a i {
+        margin-bottom: 10px;
+    }
+
+    #footer_part ul {
+        padding-top: 10px;
+    }
+
+    #footer_part::before {
+        display: none;
+    }
+    #footer_part .icon a i {
+        margin-right: 10px;
+    }
+    #footer_part p {
+        width: 235px;
+        margin-bottom: 20px;
+    }
+
+    /* ****************** */
+}
+@media(min-width:576px) and (max-width:767.99px) {
+   
+    /* nav start */
+    nav button i {
+        color: #ffff;
+        height: 30px;
+        width: 35px;
+        line-height: 30px !important;
+        border-radius: 5px;
+        text-align: center;
+        background: #FF3A44;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 .0;
+    }
+
+    nav ul {
+        background: #ffffff;
+        text-align: left;
+        padding: 20px 0 !important;
+    }
+
+    nav ul a:hover {
+        color: #FF3A44 !important;
+    }
+
+    #nav_part .navbar-brand img {
+        width: 190px !important;
+    }
+
+    nav ul li a:before {
+        display: none;
+    }
+
+
+    #nav_part .banner_btn {
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+
+    .section_btn {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+
+    /* nav end*/
+
+    /* banner start*/
+    #banner_part .banner_text h1 {
+        font-size: 28px;
+        line-height: 35px;
+        padding-right: 0px;
+        text-align: left;
+    }
+
+    #banner_part .banner_text {
+        text-align: center;
+    }
+
+    #banner_part .banner_text p {
+        padding-right: 0;
+        margin-top: 5px;
+        text-align: left;
+    }
+
+    #banner_part {
+        padding-top: 30px;
+    }
+
+    .pera_text {
+        font-size: 16px;
+    }
+
+    #banner_part .banner_text a {
+        margin-bottom: 20px;
+    }
+
+    .section_tittle h2 {
+        font-size: 29px;
+        line-height: 40px;
+        margin: 0 auto;
+        width: auto;
+    }
+
+    #main_wrap {
+        padding-top: 139px;
+    }
+
+    .section_tittle p {
+        width: auto;
+        text-align: center;
+    }
+
+    #metting_part .metting_text .pera_text2 {
+        width: auto;
+    }
+
+    #metting_part .metting_text {
+        padding-bottom: 45px;
+    }
+
+    #schedule_part .details {
+        padding-left: 10px;
+    }
+
+    #schedule_part .pera_text2 {
+        margin-top: 10px;
+        width: auto;
+    }
+
+    #schedule_part h3 span {
+        font-size: 35px;
+        left: -52px;
+        top: 6px;
+    }
+
+    #visitors_part .text {
+        padding: 20px 20px 20px 36px;
+    }
+
+    #visitors_part .text p {
+        margin-top: 10px;
+        width: auto;
+    }
+
+    #visitors_part .text h3 span {
+        top: 2px;
+        left: -31px;
+    }
+
+    /* banner end*/
+    /* visitor start */
+    #visitors_part .visitor_img {
+        background: transparent;
+        border-radius: 25px;
+        -webkit-border-radius: 25px;
+        -moz-border-radius: 25px;
+        -ms-border-radius: 25px;
+        -o-border-radius: 25px;
+        box-shadow: none;
+        padding: 0;
+        margin-bottom: -104px;
+        margin-top: -3px;
+    }
+
+    #visitors_part .visitor_img svg {
+        width: 100%;
+    }
+
+    #visitors_part::before {
+        display: none;
+    }
+
+    /* visitor end */
+    #customer_part .section_tittle h2 {
+        width: auto;
+        margin-bottom: 0;
+    }
+
+    #customer_part .img_slider::after {
+        left: -96px;
+        top: 25px;
+    }
+
+    #customer_part .img_slider::before {
+        display: none;
+    }
+
+    #customer_part .text_slider .item i {
+        font-size: 50px;
+        color: #FFBD2F;
+    }
+
+    #customer_part .text_slider .item p {
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 32px;
+        color: #C6C6C6;
+        margin: 10px 0;
+        width: auto;
+        padding-right: 33px;
+    }
+
+    #team_part {
+        margin-top: 50px;
+    }
+
+    #team_part .main_item {
+        padding: 10px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+
+    #team_part .section_tittle h2 {
+        width: auto;
+    }
+
+    #team_part .main_item p {
+        width: auto;
+        margin-top: 10px;
+    }
+
+    #footer_part .second {
+        margin-top: 10px;
+    }
+
+    #footer_part .icon a i {
+        margin-bottom: 10px;
+    }
+
+    #footer_part ul {
+        padding-top: 10px;
+    }
+
+    #footer_part::before {
+        display: none;
+    }
+    #footer_part .icon a i {
+        margin-right: 10px;
+    }
+    #footer_part p {
+        width: 235px;
+        margin-bottom: 20px;
+    }
+
+    /* ****************** */
+}
+@media(min-width:320px) and (max-width:575.99px) {
+
+    /* nav start */
+    nav button i {
+        color: #ffff;
+        height: 30px;
+        width: 35px;
+        line-height: 30px !important;
+        border-radius: 5px;
+        text-align: center;
+        background: #FF3A44;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 .0;
+    }
+
+    nav ul {
+        background: #ffffff;
+        text-align: left;
+        padding: 20px 0 !important;
+    }
+
+    nav ul a:hover {
+        color: #FF3A44 !important;
+    }
+
+    #nav_part .navbar-brand img {
+        width: 190px !important;
+    }
+
+    nav ul li a:before {
+        display: none;
+    }
+
+
+    #nav_part .banner_btn {
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+
+    .section_btn {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+
+    /* nav end*/
+
+    /* banner start*/
+    #banner_part .banner_text h1 {
+        font-size: 28px;
+        line-height: 35px;
+        padding-right: 0px;
+        text-align: left;
+    }
+
+    #banner_part .banner_text {
+        text-align: center;
+    }
+
+    #banner_part .banner_text p {
+        padding-right: 0;
+        margin-top: 5px;
+        text-align: left;
+    }
+
+    #banner_part {
+        padding-top: 30px;
+    }
+
+    .pera_text {
+        font-size: 16px;
+    }
+
+    #banner_part .banner_text a {
+        margin-bottom: 20px;
+    }
+
+    .section_tittle h2 {
+        font-size: 29px;
+        line-height: 40px;
+        margin: 0 auto;
+        width: auto;
+    }
+
+    #main_wrap {
+        padding-top: 139px;
+    }
+
+    .section_tittle p {
+        width: auto;
+        text-align: center;
+    }
+
+    #metting_part .metting_text .pera_text2 {
+        width: auto;
+    }
+
+    #metting_part .metting_text {
+        padding-bottom: 45px;
+    }
+
+    #schedule_part .details {
+        padding-left: 10px;
+    }
+
+    #schedule_part .pera_text2 {
+        margin-top: 10px;
+        width: auto;
+    }
+
+    #schedule_part h3 span {
+        font-size: 35px;
+        left: -52px;
+        top: 6px;
+    }
+
+    #visitors_part .text {
+        padding: 20px 20px 20px 36px;
+    }
+
+    #visitors_part .text p {
+        margin-top: 10px;
+        width: auto;
+    }
+
+    #visitors_part .text h3 span {
+        top: 2px;
+        left: -31px;
+    }
+
+    /* banner end*/
+    /* visitor start */
+    #visitors_part .visitor_img {
+        background: transparent;
+        border-radius: 25px;
+        -webkit-border-radius: 25px;
+        -moz-border-radius: 25px;
+        -ms-border-radius: 25px;
+        -o-border-radius: 25px;
+        box-shadow: none;
+        padding: 0;
+        margin-bottom: -104px;
+        margin-top: -3px;
+    }
+
+    #visitors_part .visitor_img svg {
+        width: 100%;
+    }
+
+    #visitors_part::before {
+        display: none;
+    }
+
+    /* visitor end */
+    #customer_part .section_tittle h2 {
+        width: auto;
+        margin-bottom: 0;
+    }
+
+    #customer_part .img_slider::after {
+        left: -96px;
+        top: 25px;
+    }
+
+    #customer_part .img_slider::before {
+        display: none;
+    }
+
+    #customer_part .text_slider .item i {
+        font-size: 50px;
+        color: #FFBD2F;
+    }
+
+    #customer_part .text_slider .item p {
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 32px;
+        color: #C6C6C6;
+        margin: 10px 0;
+        width: auto;
+        padding-right: 33px;
+    }
+
+    #team_part {
+        margin-top: 50px;
+    }
+
+    #team_part .main_item {
+        padding: 10px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+
+    #team_part .section_tittle h2 {
+        width: auto;
+    }
+
+    #team_part .main_item p {
+        width: auto;
+        margin-top: 10px;
+    }
+
+    #footer_part .second {
+        margin-top: 10px;
+    }
+
+    #footer_part .icon a i {
+        margin-bottom: 10px;
+    }
+
+    #footer_part ul {
+        padding-top: 10px;
+    }
+
+    #footer_part::before {
+        display: none;
+    }
+
+    /* ****************** */
+}
